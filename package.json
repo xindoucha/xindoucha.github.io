@@ -1,0 +1,18 @@
+{
+  "name": "vitepress-website",
+  "version": "1.0.0",
+  "description": "website powered by vitepress",
+  "main": "index.js",
+  "repository": "git@github.com:xindoucha/xindoucha.github.io.git",
+  "author": "chenqi <chenqi92@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.31",
+    "vue": "^3.2.45"
+  }
+}
