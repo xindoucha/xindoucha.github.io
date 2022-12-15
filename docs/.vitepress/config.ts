@@ -11,7 +11,7 @@ export default defineConfig({
     // logo: 'https://avatars.githubusercontent.com/u/49982781',
     nav: [
       { text: 'About', link: '/about' },
-      { text: 'Github', link: 'https://github.com/xindoucha' },
+      // { text: 'Github', link: 'https://github.com/xindoucha' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -24,23 +24,23 @@ export default defineConfig({
 
       // ...
     ],
-
-    // sidebar: [
-    //   {
-    //     text: 'Section Title A',
-    //     items: [
-    //       { text: 'Item A', link: '/item-a' },
-    //       { text: 'Item B', link: '/item-b' },
-    //     ],
-    //   },
-    //   {
-    //     text: 'Section Title B',
-    //     items: [
-    //       { text: 'Item C', link: '/item-c' },
-    //       { text: 'Item D', link: '/item-d' },
-    //     ],
-    //   },
-    // ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/xindoucha' },
+      { icon: 'twitter', link: 'https://twitter.com/chenqi_2022' },
+    ],
+    // sidebar: {
+    //   '/about/': [
+    //     {
+    //       text: 'about',
+    //       items: [
+    //         // This shows `/guide/index.md` page.
+    //         { text: 'Index', link: '/guide/' }, // /guide/index.md
+    //         { text: 'One', link: '/guide/one' }, // /guide/one.md
+    //         { text: 'Two', link: '/guide/two' } // /guide/two.md
+    //       ]
+    //     }
+    //   ],
+    // },
     footer: {
       message: 'Made with ❤ by xindoucha',
       copyright: 'Copyright © 2022-present xindoucha',
