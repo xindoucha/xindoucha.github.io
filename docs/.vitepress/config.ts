@@ -7,8 +7,9 @@ export default defineConfig({
   description: "a person with nothing special",
   head: [["link", { rel: "shortcut icon", href: "/favicon.ico" }]],
   themeConfig: {
-    // siteTitle: 'My Custom Title',
+    // siteTitle: false,
     // logo: 'https://avatars.githubusercontent.com/u/49982781',
+    logo: './assets/xdc.jpg',
     nav: [
       { text: "About", link: "/about" },
       // { text: 'Github', link: 'https://github.com/xindoucha' },

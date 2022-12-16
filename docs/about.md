@@ -3,7 +3,10 @@ title: About
 lang: en-US
 ---
 # About me 
-> Things often come full circle with a twist in the cycle of innovation.
+> Things often come full circle with a twist in the cycle of life.
+
+![ourm](./assets/ourm.jpeg)
+
 ::: info Education
 👨‍🎓 2018 - Graduated from Zhejiang University with a master's degree in Mechanical Engineering.
 :::
@@ -26,7 +29,7 @@ lang: en-US
 
 ---
 
-📷 Photography - I love photography, especially architectural photography and black and white photography. I like the visual experience brought by light and shadow. I have learn photography by myslf for a period of time, and I know a little about cameras.
+📷 Photography - I love photography, especially architectural photography and black-and-white photography. I like the visual experience brought by light and shadow. I have learn photography by myslf for a period of time, and I know a little about cameras.
 :::
 
 ::: danger Interest
@@ -41,6 +44,6 @@ lang: en-US
 💰 Finance - I love finance and investing, it's a very interesting industry and it's a lot of fun fighting with people. But I am a relatively conservative investor, I don’t like high-risk investments, and I like fixed investment the most.
 :::
 
-::: info Education
+::: info Dream
 🌟 My dream is to be a freelancer and have my own studio. The studio is designed by a professional architect and has a high artistic quality. I feel refreshed when I walk into the studio every day. Daily work is not for livelihood, but to create value for society and <b>bring small but beautiful changes to the world</b>.
 :::
