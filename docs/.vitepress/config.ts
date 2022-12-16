@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // siteTitle: false,
     // logo: 'https://avatars.githubusercontent.com/u/49982781',
-    logo: './assets/xdc.jpg',
+    logo: '/xdc.jpg',
     nav: [
       { text: "About", link: "/about" },
       // { text: 'Github', link: 'https://github.com/xindoucha' },

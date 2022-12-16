@@ -21,7 +21,7 @@ lang: en-US
 
 
 ::: warning Hobby
-🏊‍♂️ Swimming - Swimming is the sport I have been doing over one year. I like swimming, on the one hand, I can exercise my body, and on the other hand, I can release my stress after work.
+🏊‍♂️ Swimming - Swimming is the sport I have been doing over one year. I like swimming, not only for exercising my body, but also releasing my stress after work.
 
 ---
 
@@ -29,7 +29,7 @@ lang: en-US
 
 ---
 
-📷 Photography - I love photography, especially architectural photography and black-and-white photography. I like the visual experience brought by light and shadow. I have learn photography by myslf for a period of time, and I know a little about cameras.
+📷 Photography - I love photography, especially architectural photography and black-and-white photography. I like the visual experience brought by light and shadow. I have learn photography by myself for a period of time, and I know a little about camera.
 :::
 
 ::: danger Interest
@@ -37,11 +37,11 @@ lang: en-US
 
 ---
 
-⚖️ Web 3 - Web 3 is a broad term. But based on decentralization, many new ways of collaboration may emerge. So I have been keeping an eye on this direction, and I think there will be a lot of new opportunities here.
+⚖️ Web 3 - Web 3 is a broad term. But based on decentralization, many new ways of collaboration may emerge. So I have been keeping an eye on this direction, and I think there will be a lot of new opportunities.
 
 ---
 
-💰 Finance - I love finance and investing, it's a very interesting industry and it's a lot of fun fighting with people. But I am a relatively conservative investor, I don’t like high-risk investments, and I like fixed investment the most.
+💰 Finance - I love finance and investing, it's a very interesting industry and it's a lot of fun fighting with people. But I am a relatively conservative investor, I don’t like high-risk investments, prefer fixed investment.
 :::
 
 ::: info Dream
