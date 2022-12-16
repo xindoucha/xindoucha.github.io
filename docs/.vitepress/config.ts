@@ -44,7 +44,7 @@ export default defineConfig({
     // },
     footer: {
       message: "Made with ❤ by xindoucha",
-      copyright: "Copyright © 2022-present xindoucha",
+      copyright: "Copyright © 2022-present xindoucha <br>浙ICP备2022014066号-1",
     },
   },
 });
