@@ -12,6 +12,7 @@ export default defineConfig({
     logo: '/xdc.jpg',
     nav: [
       { text: "About", link: "/about" },
+      { text: "Source", link: "/source" },
       // { text: 'Github', link: 'https://github.com/xindoucha' },
 
       // {
