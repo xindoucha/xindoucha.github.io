@@ -1,16 +1,16 @@
-import { defineConfig } from 'vitepress';
+import { defineConfig } from "vitepress";
 
 // refer https://vitepress.vuejs.org/config/introduction for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'xindoucha',
-  description: 'a person with nothing special',
-
+  lang: "en-US",
+  title: "xindoucha",
+  description: "a person with nothing special",
+  head: [["link", { rel: "shortcut icon", href: "/favicon.ico" }]],
   themeConfig: {
     // siteTitle: 'My Custom Title',
     // logo: 'https://avatars.githubusercontent.com/u/49982781',
     nav: [
-      { text: 'About', link: '/about' },
+      { text: "About", link: "/about" },
       // { text: 'Github', link: 'https://github.com/xindoucha' },
 
       // {
@@ -25,8 +25,8 @@ export default defineConfig({
       // ...
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xindoucha' },
-      { icon: 'twitter', link: 'https://twitter.com/chenqi_2022' },
+      { icon: "github", link: "https://github.com/xindoucha" },
+      { icon: "twitter", link: "https://twitter.com/chenqi_2022" },
     ],
     // sidebar: {
     //   '/about/': [
@@ -42,8 +42,8 @@ export default defineConfig({
     //   ],
     // },
     footer: {
-      message: 'Made with ❤ by xindoucha',
-      copyright: 'Copyright © 2022-present xindoucha',
+      message: "Made with ❤ by xindoucha",
+      copyright: "Copyright © 2022-present xindoucha",
     },
   },
 });

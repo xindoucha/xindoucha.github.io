@@ -3,7 +3,8 @@ layout: home
 
 hero:
   name: xindoucha
-  text: a person with nothing special
+  text: A person with nothing special
+  tagline: Things often come full circle with a twist in the cycle of innovation.
   image:
     src: https://avatars.githubusercontent.com/u/49982781
     alt: xindoucha
@@ -17,11 +18,11 @@ hero:
 features:
   - icon: 👨🏻‍💻
     title: Front-end engineer
-    # details: Lorem ipsum...
+    details: Working as a programmer in an internet company.
   - icon: 👷🏻‍♂️
     title: Seven years mechanic apprentice
-    # details: Lorem ipsum...
+    details: Learned mechanics for seven years, undergraduate and master.
   - icon: 💰
     title: Financial enthusiast
-    # details: Lorem ipsum...
+    details: Very interested in finance(actually money), like investing(wild leek).
 ---
