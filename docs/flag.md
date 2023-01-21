@@ -7,6 +7,7 @@ lang: en-US
 + Write a WeChat Mini-Program of my own. More importantly, let it run.
 + Systematically learn 3D development.
 + Learn Solidity language.
++ Apply for at least 4 national invention patents.
 + Watch a Jay Chou's concert.
 + Have a travel, maybe Chongqing.
 + ...
