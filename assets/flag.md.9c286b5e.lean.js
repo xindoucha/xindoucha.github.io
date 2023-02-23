@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,a as i}from"./app.45693d18.js";const f=JSON.parse('{"title":"Flag","description":"","frontmatter":{"title":"Flag","lang":"en-US"},"headers":[],"relativePath":"flag.md"}'),o={name:"flag.md"},l=i("",2),n=[l];function r(s,_,c,d,h,m){return e(),t("div",null,n)}const g=a(o,[["render",r]]);export{f as __pageData,g as default};
