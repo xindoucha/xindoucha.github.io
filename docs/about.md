@@ -3,7 +3,7 @@ title: About
 lang: en-US
 ---
 # About me 
-> Things often come full circle with a twist in the cycle of life.
+> Try my best with no reason to regret.
 
 ![ourm](./assets/ourm.jpeg)
 

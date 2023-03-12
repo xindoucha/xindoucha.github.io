@@ -4,7 +4,7 @@ layout: home
 hero:
   name: xindoucha
   text: A person with nothing special
-  tagline: Things often come full circle with a twist in the cycle of life.
+  tagline: Try my best with no reason to regret.
   image:
     src: https://avatars.githubusercontent.com/u/49982781
     alt: xindoucha
